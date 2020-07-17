@@ -1,9 +1,11 @@
 Required:
+http://mingw-w64.org/doku.php/download
+
 - Win:
-  - GCC 9.2.0
-  - Ninja v1.10.0
+  - http://mingw-w64.org/doku.php/download
+  - wget (command line)
+  - 7zip (command line)
   - .\scripts\install_buildtools_windows.bat
-  - XXXX
 - Linux:
   - XXXX
 - Mac:
